@@ -35,7 +35,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- :¡Hola! I am SANTIAGO, a passionate programmer with experience in the exciting world of Information Technology. My expertise ranges from software development to project management, and my goal is to contribute to the growth and success of companies through innovative technological solutions.
+- I am SANTIAGO, a passionate programmer with experience in the exciting world of Information Technology. My expertise ranges from software development to project management, and my goal is to contribute to the growth and success of companies through innovative technological solutions.
 - 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
 <br>
 
