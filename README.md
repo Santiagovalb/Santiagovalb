@@ -26,6 +26,7 @@
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
+<br></br>
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeid&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <br><br>
