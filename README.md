@@ -36,12 +36,9 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 
 
-- 
-¡Hola! Soy SANTIAGO, un apasionado programador con experiencia integral en el emocionante mundo de la Tecnología de la Información. Mi enfoque se centra no solo en el desarrollo web c, sino también en el impacto directo en el posicionamiento digital que ayuda a tener excelentes resultados en la implementación del proyecto.
-Además de mis habilidades técnicas, poseo competencias sólidas en estrategias de posicionamiento digital. Mis conocimientos en SEO y SEM, combinados con técnicas de marketing digital, aseguran que las soluciones que desarrollo no solo sean eficientes desde el punto de vista técnico, sino que también destaquen en el mundo digital.
+- Hello! I am SANTIAGO, a passionate programmer with comprehensive experience in Information Technology. My focus spans web development and the direct impact on digital positioning to achieve excellent results in project implementation. My technical skills are complemented by strong competencies in SEO, SEM, and digital marketing, ensuring efficient and standout solutions in the digital realm.
 
-
-Estoy comprometido con la mejora continua y la actualización constante de mis habilidades para mantenerme a la vanguardia de las últimas tendencias tecnológicas.Estoy emocionado por la posibilidad de aportar mi experiencia y pasión a su equipo, contribuyendo al éxito continuo de su empresa. ¡Espero ser parte de un entorno donde la tecnología y la creatividad se fusionen para lograr resultados extraordinarios!
+Committed to continuous improvement, I stay at the forefront of the latest technological trends. My enthusiasm lies in contributing my expertise and passion to your team, fostering the ongoing success of your company. I am eager to be part of an environment where technology and creativity merge to achieve extraordinary results. I look forward to the opportunity to collaborate with you!
 <br>
 
 
