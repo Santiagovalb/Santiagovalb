@@ -2,7 +2,7 @@
 <p align="center">
   
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+
 
 
 <br><br>
