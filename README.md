@@ -48,7 +48,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="http://www.linkedin.com/in/santiagovalenciabustamante">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
+        <a style="margin-left: 10px;" target="_blank" href="https://santiagovalb.github.io/goit-markup-hw-08/">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
