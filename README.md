@@ -1,4 +1,5 @@
-<h1 align="center">  👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">  👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<a href="https://wa.me/3113901634" target="_blank"></h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&random=false&width=435&lines=FULL+++STACK++++DEVELOPER+;MARKETING+DIGITAL" alt="Typing SVG" /></a>
 </p>
