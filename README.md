@@ -34,7 +34,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <br></br>
 <h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
+
 
 - I am SANTIAGO, a passionate programmer with experience in the exciting world of Information Technology. My expertise ranges from software development to project management, and my goal is to contribute to the growth and success of companies through innovative technological solutions.
 - 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
