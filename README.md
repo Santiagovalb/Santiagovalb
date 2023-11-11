@@ -36,8 +36,12 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 
 
-- I am SANTIAGO, a passionate programmer with experience in the exciting world of Information Technology. My expertise ranges from software development to project management, and my goal is to contribute to the growth and success of companies through innovative technological solutions.
-- 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
+- 
+¡Hola! Soy SANTIAGO, un apasionado programador con experiencia integral en el emocionante mundo de la Tecnología de la Información. Mi enfoque se centra no solo en el desarrollo web c, sino también en el impacto directo en el posicionamiento digital que ayuda a tener excelentes resultados en la implementación del proyecto.
+Además de mis habilidades técnicas, poseo competencias sólidas en estrategias de posicionamiento digital. Mis conocimientos en SEO y SEM, combinados con técnicas de marketing digital, aseguran que las soluciones que desarrollo no solo sean eficientes desde el punto de vista técnico, sino que también destaquen en el mundo digital.
+
+
+Estoy comprometido con la mejora continua y la actualización constante de mis habilidades para mantenerme a la vanguardia de las últimas tendencias tecnológicas.Estoy emocionado por la posibilidad de aportar mi experiencia y pasión a su equipo, contribuyendo al éxito continuo de su empresa. ¡Espero ser parte de un entorno donde la tecnología y la creatividad se fusionen para lograr resultados extraordinarios!
 <br>
 
 
