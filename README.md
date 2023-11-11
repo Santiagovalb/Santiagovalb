@@ -37,7 +37,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 
 
-- Hello! I'm SANTIAGO, a technology enthusiast with a focus on web development and digital strategies. My experience includes SEO, SEM, and digital marketing, ensuring effective solutions in the digital realm. Committed to continuous improvement, I'm excited to contribute my skills and enthusiasm to your team, fostering ongoing success. Eager to be part of a technological and creative environment to achieve exceptional results. I look forward to the opportunity to collaborate with you!
+- 👋 Hello! I'm SANTIAGO, a technology enthusiast with a focus on web development and digital strategies 👨🏽‍💻. My experience includes SEO, SEM, and digital marketing, ensuring effective solutions in the digital realm. 🚀 Committed to continuous improvement, I'm excited to contribute my skills and enthusiasm to your team, fostering ongoing success. Eager to be part of a technological and creative environment to achieve exceptional results. 🌐 I look forward to the opportunity to collaborate with you! 🤝
 <br>
 
 
